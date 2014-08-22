@@ -1,0 +1,140 @@
+* {
+	font-family:"Arial";
+	color:#000;
+}
+
+.container{
+	width:1024px;
+	margin: 0px auto;
+	background-image: url(../img/fundo.png);
+	background-repeat: no-repeat;
+}
+
+.principal{
+	width:1024px;
+	margin: auto;
+}
+
+.conteudo_ipsum{
+	position: relative;
+	float: right;
+	margin-right: 65px;
+	width: 460px;
+	margin-top:200px;
+}
+
+.conteudo_ipsum p{
+	font-size:15px;
+}
+
+.img_fnd{
+	border-bottom:3px solid #ee3024;
+}
+
+.botao{
+	float:left;
+	margin: auto 8px;
+	width:40px;
+	height:40px;
+	background:#ee3024;
+	color:#fff;	
+	padding: 4px 13px;
+	font-size: 25px;
+	font-weight: normal;
+	cursor: pointer;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+.botao:hover{
+	background:#000;
+}
+
+.dilmes{
+	width: 450px;
+	height: 245px;
+	overflow-y: scroll;
+	resize: none;
+	margin: 25px 0px 0px 0px;
+	padding: 20px 15px 20px 20px;
+	padding:20px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	font-size:14px;
+	border-radius: 10px;
+	-webkit-box-shadow: 2px 2px 5px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    2px 2px 5px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         2px 2px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+.gerar_dilmes{
+	width:450px;
+	height:60px;
+	background:#ee3024;
+	color:#fff;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	font-size: 19px;
+	margin-top:10px;
+	padding: 15px 0px 15px 87px;
+	-webkit-box-shadow: 2px 2px 5px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    2px 2px 5px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         2px 2px 5px 0px rgba(50, 50, 50, 0.75);
+	cursor:pointer;
+}
+
+.gerar_dilmes:hover{
+	background:#000;
+}
+
+.redes_sociais{
+	margin: 0px;
+	margin-top: 40px;
+	width: 764px;
+	position: relative;
+	bottom: 30px;
+}
+.texto_comentarios p{
+	text-align:center;
+	font-size:27px;
+	margin: 0px 0px 40px 0px;
+}
+.fb_iframe_widget{
+	margin-right: 30px !important;
+	top: -4px !important;
+}
+
+.comentarios_fb{
+	width: 500px;
+	position: relative;
+	display: inline-block;
+	margin-left:24px;
+}
+.comentarios_twitter{
+	float: left;
+	width: 500px;
+	display: inline-block;
+}
+
+.comentarios_fb p {
+	font-size:20px;
+	text-align:left;
+	margin-top:0px;
+}
+
+.assinatura{	    
+	color: #EE3024;
+	width: 1024px;
+	float: right;
+	margin: 10px auto 0px auto;
+	text-align: right;
+	background: #FFF;
+	padding: 10px 0px;
+	border-top: 4px solid #EE3024;
+}
+
+.assinatura a{
+	color: #000;
+}
