@@ -5,6 +5,7 @@
 <b>Autor:</b> Miguel Medeiros - www.miguelmedeiros.com.br<br/>
 
 Modificações:
+
 1.2 Novas Atualizações
  - Gera Dilmês Ipsum randômicos
  - Adicionado balão de Olá internautas
