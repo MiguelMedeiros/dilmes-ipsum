@@ -84,7 +84,14 @@
                             }
 							
 			    o.removeClass('hover');
-                            alert("O Dilmes gerado já está no seu clipboard!");
+                            //alert("O Dilmes gerado já está no seu clipboard!");
+                            $(".balao_dilmes_gerado").fadeIn("slow");
+                           setTimeout(
+						   function() 
+						   {
+						   	$(".balao_dilmes_gerado").fadeOut("slow");
+						   }, 6000);
+                           
                         }
 
                         if (settings.clickAfter) {

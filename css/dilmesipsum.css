@@ -42,9 +42,9 @@
 	font-size: 25px;
 	font-weight: normal;
 	cursor: pointer;
-	-webkit-border-radius: 10px;
-	-moz-border-radius: 10px;
-	border-radius: 10px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
 }
 
 .botao:hover{
@@ -59,10 +59,10 @@
 	margin: 25px 0px 0px 0px;
 	padding: 20px 15px 20px 20px;
 	padding:20px;
-	-webkit-border-radius: 10px;
-	-moz-border-radius: 10px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
 	font-size:14px;
-	border-radius: 10px;
+	border-radius: 5px;
 	-webkit-box-shadow: 2px 2px 5px 0px rgba(50, 50, 50, 0.75);
 	-moz-box-shadow:    2px 2px 5px 0px rgba(50, 50, 50, 0.75);
 	box-shadow:         2px 2px 5px 0px rgba(50, 50, 50, 0.75);
@@ -73,9 +73,9 @@
 	height:60px;
 	background:#ee3024;
 	color:#fff;
-	-webkit-border-radius: 10px;
-	-moz-border-radius: 10px;
-	border-radius: 10px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
 	font-size: 19px;
 	margin-top:10px;
 	padding: 15px 0px 15px 87px;
@@ -137,4 +137,37 @@
 
 .assinatura a{
 	color: #000;
+}
+
+.easteregg{ 
+	color:#000 !important;
+}
+
+.easteregg:hover{
+	text-decoration: none;
+	color:#000 !important;
+}
+
+.balao_dilmes_gerado{
+	display:none;
+	width:237px;
+	height:200px;
+	background-image: url(../img/dilmes-gerado.png);
+	position: absolute;
+	top: 140px;
+	right: 710px;
+}
+.ola-internautas{
+	display:none;
+	width:246px;
+	height:200px;
+	background-image: url(../img/ola-internautas.png);
+	position:absolute;
+	bottom: 558px;
+	right: 417px;
+}
+.dilmes-ipsum-logo{
+	width:460px;
+	height:70px;
+	margin-top: -60px;
 }
