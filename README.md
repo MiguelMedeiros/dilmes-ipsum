@@ -8,3 +8,4 @@ Modificações:
 1.1 Novas Atualizações
  - Adicionado Twitter nos comentários
  - Modificações de CSS
+ - Alteração na estrutura de pastas
