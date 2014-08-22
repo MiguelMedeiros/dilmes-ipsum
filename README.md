@@ -5,6 +5,12 @@
 <b>Autor:</b> Miguel Medeiros - www.miguelmedeiros.com.br<br/>
 
 Modificações:
+1.2 Novas Atualizações
+ - Gera Dilmês Ipsum randômicos
+ - Adicionado balão de Olá internautas
+ - Adicionado balão de confirmação de Dilmês
+ - Adicionado Easter Egg
+
 1.1 Novas Atualizações
  - Adicionado Twitter nos comentários
  - Modificações de CSS
