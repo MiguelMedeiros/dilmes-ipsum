@@ -10,7 +10,7 @@ $( document ).ready(function() {
 	dilmes.push('Todos as descrições das pessoas são sobre a humanidade do atendimento, a pessoa pega no pulso, examina, olha com carinho. Então eu acho que vai ter outra coisa, que os médicos cubanos trouxeram pro brasil, um alto grau de humanidade.');
 	dilmes.push('Eu dou dinheiro pra minha filha. Eu dou dinheiro pra ela viajar, então é... é... Já vivi muito sem dinheiro, já vivi muito com dinheiro. -Jornalista: Coloca esse dinheiro na poupança que a senhora ganha R$10 mil por mês. -Dilma: O que que é R$10 mil?');
 
-        //Add MPS - Set/2016
+    //Add MPS - Set/2016
 	dilmes.push('Temos a mandioca e aqui nós estamos e, certamente, nós teremos uma série de outros produtos que foram essenciais para o desenvolvimento de toda a civilização humana ao longo dos séculos. Então, aqui, hoje, eu tô saudando a mandioca, uma das maiores conquistas do Brasil.')
 	dilmes.push('Eu aproveito e uso de uma imagem feita pelo grande Nelson Rodrigues que dizia que os pessimistas fazem parte da paisagem assim como os morros, as praças e os arruamentos.')
 	dilmes.push('Roraima é a capital mais distante de Brasília, mas eu garanto para vocês que essa distância, para nós do Governo Federal, só existe no mapa. E aí eu me considero hoje uma roraimada, roraimada, no que prova que estou bem perto de vocês.')
@@ -22,7 +22,11 @@ $( document ).ready(function() {
 	dilmes.push('Aquelas cores, o Nuzman estava me explicando, porque isso é um protótipo, elas mudam. As cores internas mudam. E também que a tocha se move. Então, eu digo, diante da tocha, com uma insistência que o Galileu disse diante da inquisição:"e pur si muove!". Ou seja, "e apesar de tudo se move!".')
 	dilmes.push('Agora, a rede, eu acho que ela tem um lado lúdico, sabe? Porque isso que as crianças gostam tanto no pavilhão. Porque, quando você está lá em cima... Eu não posso ficar aqui brincando, não é? Então... Mas você percebe direitinho com é que dá para brincar, porque se você inclinar para um lado e, imediatamente, virar para outro, você fica balançando mesmo, você consegue equilibrar.')
 	dilmes.push('Eu acredito que nós teremos uns jogos Olímpicos que vai ter uma qualidade totalmente diferente e que vai ser capaz de deixar um legado tanto... porque geralmente as pessoas pensam: "Ah, o legado é só depois". Não, vai deixar um legado antes, durante e depois.')
-
+	dilmes.push('Eu dou dinheiro pra minha filha. Eu dou dinheiro pra ela viajar, então é... é... Já vivi muito sem dinheiro, já vivi muito com dinheiro. -Jornalista: Coloca esse dinheiro na poupança que a senhora ganha R$10 mil por mês. -Dilma: O que que é R$10 mil?');
+	dilmes.push('Até agora! Até agora, a energia hidrelétrica é a mais barata, em termos do que ela dura, da sua manutenção e também pelo fato da água ser gratuita e da gente poder estocar.');
+	dilmes.push('Se.. o vento podia ser isso também, mas você não conseguiu ainda tecnologia pa estocar vento, então, se a contribuição dos outros países, vamo supor que seja, desenvolver uma tecnologia que seja capaz de na eólica estocar.. te, ter uma forma do ce estoca, porque o vento, ele é diferente em horas do dia, então vamos supor que, que vente mais a noite, cumé que eu faria pra estocar isso.');
+	dilmes.push('Hoje nós usamos as linhas de transmissão, ce joga de lá pra cá, de lá pra lá pra poder capturar isso, mas se tiver uma tecnologia desenvolvida nessa área, nós.. todos nós nos beneficiaremos, o mundo inteiro.');
+	dilmes.push('Nós temos a mandioca e estamos comungando a mandioca com o milho. Uma das maiores conquistas do Brasil. Símbolo (a bola de folha de bananeira) da nossa evolução porque nós nos transformamos em homosapiens ou mulheres sapiens');
 	
 	function shuffle(array) {
 	  var currentIndex = array.length, temporaryValue, randomIndex ;
