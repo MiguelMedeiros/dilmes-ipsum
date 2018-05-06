@@ -9,7 +9,20 @@ $( document ).ready(function() {
 	dilmes.push('Se hoje é o dia das crianças... Ontem eu disse: o dia da criança é o dia da mãe, dos pais, das professoras, mas também é o dia dos animais, sempre que você olha uma criança, há sempre uma figura oculta, que é um cachorro atrás. O que é algo muito importante!');
 	dilmes.push('Todos as descrições das pessoas são sobre a humanidade do atendimento, a pessoa pega no pulso, examina, olha com carinho. Então eu acho que vai ter outra coisa, que os médicos cubanos trouxeram pro brasil, um alto grau de humanidade.');
 	dilmes.push('Eu dou dinheiro pra minha filha. Eu dou dinheiro pra ela viajar, então é... é... Já vivi muito sem dinheiro, já vivi muito com dinheiro. -Jornalista: Coloca esse dinheiro na poupança que a senhora ganha R$10 mil por mês. -Dilma: O que que é R$10 mil?');
-	
+
+        //Add MPS - Set/2016
+	dilmes.push('Temos a mandioca e aqui nós estamos e, certamente, nós teremos uma série de outros produtos que foram essenciais para o desenvolvimento de toda a civilização humana ao longo dos séculos. Então, aqui, hoje, eu tô saudando a mandioca, uma das maiores conquistas do Brasil.')
+	dilmes.push('Eu aproveito e uso de uma imagem feita pelo grande Nelson Rodrigues que dizia que os pessimistas fazem parte da paisagem assim como os morros, as praças e os arruamentos.')
+	dilmes.push('Roraima é a capital mais distante de Brasília, mas eu garanto para vocês que essa distância, para nós do Governo Federal, só existe no mapa. E aí eu me considero hoje uma roraimada, roraimada, no que prova que estou bem perto de vocês.')
+	dilmes.push('houve um deságio de quase... Foi um pouco mais de 38%, mas eu fico e 38% para ninguem dizer: "Ah, ela disse que era 38?", mas não é não. É 39, 38 e qualquer coisa ou é 36. 38, eu acho que é 39, mas vou dizer 38.')
+	dilmes.push('Paes é o prefeito mais feliz do mundo, que dirige a cidade mais importante do mundo e da galáxia. Por que da galáxia? Porque a galáxia é o Rio de Janeiro. A via Láctea é fichinha perto da galáxia que o nosso querido Eduardo Paes tem a honra de ser prefeito.')
+	dilmes.push('Eu acho que a importância da bola é justamente essa, o símbolo da capacidade que nos distingue como... Nós somos do gênero humano, da espécie Sapiens. Então, para mim essa bola é um símbolo da nossa evolução. Quando nós criamos uma bola dessas, nós nos transformamos em Homo sapiens ou mulheres sapiens.')
+	dilmes.push('Não vamos colocar meta. Vamos deixar a meta aberta, mas, quando atingirmos a meta, vamos dobrar a meta.')
+	dilmes.push('Já que eu falei de transporte eu vou falar, ao mesmo tempo, do aeroporto. O aeroporto que é uma outra forma de transporte.')
+	dilmes.push('Aquelas cores, o Nuzman estava me explicando, porque isso é um protótipo, elas mudam. As cores internas mudam. E também que a tocha se move. Então, eu digo, diante da tocha, com uma insistência que o Galileu disse diante da inquisição:"e pur si muove!". Ou seja, "e apesar de tudo se move!".')
+	dilmes.push('Agora, a rede, eu acho que ela tem um lado lúdico, sabe? Porque isso que as crianças gostam tanto no pavilhão. Porque, quando você está lá em cima... Eu não posso ficar aqui brincando, não é? Então... Mas você percebe direitinho com é que dá para brincar, porque se você inclinar para um lado e, imediatamente, virar para outro, você fica balançando mesmo, você consegue equilibrar.')
+	dilmes.push('Eu acredito que nós teremos uns jogos Olímpicos que vai ter uma qualidade totalmente diferente e que vai ser capaz de deixar um legado tanto... porque geralmente as pessoas pensam: "Ah, o legado é só depois". Não, vai deixar um legado antes, durante e depois.')
+
 	
 	function shuffle(array) {
 	  var currentIndex = array.length, temporaryValue, randomIndex ;
